@@ -12,10 +12,7 @@
 Click the button below to open this project in Gitpod:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/YOUR-REPO)
-  
-## Running Tests
-Once inside Gitpod, run:
-```sh
-npx playwright test```
 
-## Running Tests
+## Test Report 
+playwright-report > index.html
+
