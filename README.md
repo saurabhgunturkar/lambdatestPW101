@@ -1,8 +1,14 @@
 # lambdatestPlaywright101
 
-# Playwright Testing Project
+# LambdaTest PW Execution TestID's
+1) PW-Chromium > FN7FD-D9VRK-7W5HV-RTD9B
+2) PW-Chromium > LH5RT-HTFAO-FQQTG-3PMGG
+3) PW-Chromium > RQLPE-0FXDU-C2NPQ-1RPIW
+4) PW-MAC_Catilana Firefox > SWUYS-WSG2Y-R41TD-8TRHF
+5) PW-MAC_Catilana Firefox > TWUGL-2GDN2-TKGUO-NSGWU
 
 ## Getting Started
+
 Click the button below to open this project in Gitpod:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/YOUR-REPO)
@@ -10,13 +16,6 @@ Click the button below to open this project in Gitpod:
 ## Running Tests
 Once inside Gitpod, run:
 ```sh
-npx playwright test
+npx playwright test```
 
-
-### 3. **Submit the Assignment**
-- Push your changes to GitHub.
-- Share the repository link with your instructor or submission portal.
-
-For more details on configuring Gitpod for a single-click dev environment, check out [Gitpod’s documentation](https://www.gitpod.io/docs/flex/getting-started/configure-dev-environment).
-
-Let me know if you need any refinements! 🚀
+## Running Tests
